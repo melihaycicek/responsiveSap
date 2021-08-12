@@ -1,0 +1,17 @@
+{
+	"@odata.context": "https://services.odata.org/TripPinRESTierService/(S(id))/$metadata#People(Age,FirstName,LastName,UserName)",
+	"value": [
+		{
+			"Age":"1997-10-08",
+			"FirstName": "10/08/2020",
+			"LastName": "Hassikome",
+			"UserName": "Mühendis"
+		},
+		{
+			"Age": "1998-10-08",
+			"FirstName": "Benli ",
+			"LastName": "Murat",
+			"UserName": "Holigan"
+		}
+	]
+}
